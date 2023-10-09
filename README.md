@@ -1,7 +1,5 @@
 # Mac-Repair-Delhi
 Mac Repair
-# Mac-Repair-Delhi
-Mac Repair
 MakCity's Informal Repairability Score Listings for Various Electronics
 
 Some time ago, we shared a nifty table displaying repairability scores for tablets at MakCity. It garnered quite a bit of attention, indicating that we've been providing valuable information in a less-than-ideal format. We've made some improvements, but regrettably, this is currently limited to tablets, which is somewhat limiting.
